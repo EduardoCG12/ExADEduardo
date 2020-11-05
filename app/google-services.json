@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605289173842",
+    "firebase_url": "https://exadeduardo.firebaseio.com",
+    "project_id": "exadeduardo",
+    "storage_bucket": "exadeduardo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605289173842:android:ebc69816a7f5625935208b",
+        "android_client_info": {
+          "package_name": "com.example.exadeduardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605289173842-2f608oi1bo7f1mnll4c61doftk69spoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exadeduardo",
+            "certificate_hash": "e2536e74a343d1a7e7827165fb03699b899394fc"
+          }
+        },
+        {
+          "client_id": "605289173842-839g0apjumie10jlof4ptlh861jg17ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Qn2W-_VMKGRdgXbUMeejkzrgC_i9Ii0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605289173842-839g0apjumie10jlof4ptlh861jg17ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
